@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Start App And navigate to the Home</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2373db5a-4bba-494f-a0d7-68a7eec1a37a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>947fa864-c14e-40cc-a93f-5667fac3d46d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>GlobalVariable.device_name</defaultValue>
+      <description></description>
+      <id>947fa864-c14e-40cc-a93f-5667fac3d46d</id>
+      <masked>false</masked>
+      <name>device_name</name>
+   </variable>
+</TestCaseEntity>

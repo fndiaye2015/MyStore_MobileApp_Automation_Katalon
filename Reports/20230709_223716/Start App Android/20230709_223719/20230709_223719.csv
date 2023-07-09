@@ -1,0 +1,9 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Start App Android,,,,2023-07-09 22:37:39,2023-07-09 22:37:50,"10,504s",ERROR
+,,,,,,,
+Test Cases/Start App And navigate to the Home,,,,2023-07-09 22:37:47,2023-07-09 22:37:50,"2,567s",ERROR
+"browserStackServerURL = ""https://fodndiaye_Cq4dSV:wzG6MDwTZMxzpufsNyS3@hub-cloud.browserstack.com/wd/hub""",,,,2023-07-09 22:37:47,2023-07-09 22:37:47,"0,001s",PASSED
+capabilities = new org.openqa.selenium.remote.DesiredCapabilities(),,,,2023-07-09 22:37:47,2023-07-09 22:37:47,"0,001s",PASSED
+"capabilities.setCapability(""device"", device_name)",,,,2023-07-09 22:37:47,2023-07-09 22:37:47,"0,001s",PASSED
+"capabilities.setCapability(""app"", ""bs://8fac9d3d752abf7cd74d8d118df77fb30c8b0b5c"")",,,,2023-07-09 22:37:47,2023-07-09 22:37:47,"0,001s",PASSED
+"createMobileDriver(ANDROID_DRIVER, capabilities, new java.net.URL(browserStackServerURL))",,,,2023-07-09 22:37:47,2023-07-09 22:37:50,"2,520s",ERROR

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Start App IOS" time="42.344" tests="1" failures="0" errors="0">
+   <testsuite name="Start App IOS" tests="1" failures="0" errors="0" time="42.344" skipped="0" timestamp="2023-07-09 22:27:45" hostname="fndiaye - mbp-de-fode.home" id="Test Suites/Start App IOS">
+      <properties>
+         <property name="deviceName" value="null"/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="/Users/fndiaye/Katalon Studio/My_Store_BrowserStack_Mobile/Reports/20230709_222729/Start App IOS/20230709_222734"/>
+         <property name="logFiles" value="/Users/fndiaye/Katalon Studio/My_Store_BrowserStack_Mobile/Reports/20230709_222729/Start App IOS/20230709_222734/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="fndiaye - mbp-de-fode.home"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="appiumServerStatus" value="{&quot;status&quot;:0,&quot;sessionId&quot;:null,&quot;value&quot;:{&quot;build&quot;:{&quot;time&quot;:&quot;2015-02-26 23:59:50&quot;,&quot;version&quot;:&quot;2.45.0&quot;,&quot;revision&quot;:&quot;5017cb8&quot;}},&quot;state&quot;:&quot;success&quot;}"/>
+         <property name="katalonVersion" value="8.6.5.208"/>
+         <property name="deviceOS" value="null"/>
+         <property name="appiumVersion" value="2.45.0"/>
+         <property name="deviceModel" value="null"/>
+         <property name="hostAddress" value="192.168.1.5"/>
+         <property name="deviceManufacturer" value="null"/>
+         <property name="deviceId" value="null"/>
+         <property name="deviceName" value="null"/>
+         <property name="deviceOSVersion" value="null"/>
+      </properties>
+      <testcase name="Test Cases/Start App And navigate to the Home" time="42.009" classname="Test Cases/Start App And navigate to the Home" status="PASSED">
+         <system-out><![CDATA[2023-07-09 22:27:46 - [TEST_CASE][PASSED] - Test Cases/Start App And navigate to the Home: Test Cases/Start App And navigate to the Home
+
+2023-07-09 22:27:46 - [TEST_STEP][PASSED] - browserStackServerURL = "https://fodndiaye_Cq4dSV:wzG6MDwTZMxzpufsNyS3@hub-cloud.browserstack.com/wd/hub": null
+
+2023-07-09 22:27:46 - [TEST_STEP][PASSED] - capabilities = new org.openqa.selenium.remote.DesiredCapabilities(): null
+
+2023-07-09 22:27:46 - [TEST_STEP][PASSED] - capabilities.setCapability("device", "Google Pixel 4"): null
+
+2023-07-09 22:27:46 - [TEST_STEP][PASSED] - capabilities.setCapability("app", "bs://8fac9d3d752abf7cd74d8d118df77fb30c8b0b5c"): null
+
+2023-07-09 22:27:46 - [TEST_STEP][PASSED] - createMobileDriver(ANDROID_DRIVER, capabilities, new java.net.URL(browserStackServerURL)): null
+
+2023-07-09 22:28:09 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/android.widget.Button - DMARRER"), 0): Tapped on element 'Object Repository/android.widget.Button - DMARRER'
+
+2023-07-09 22:28:10 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-07-09 22:28:11 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/android.widget.Button - DMARRER'
+
+2023-07-09 22:28:11 - [TEST_STEP][PASSED] - swipe(950, 950, 100, 950): Swiped from 950,950 to 100,950
+
+2023-07-09 22:28:13 - [MESSAGE][PASSED] - Swiped from 950,950 to 100,950
+
+2023-07-09 22:28:14 - [TEST_STEP][PASSED] - swipe(950, 950, 100, 950): Swiped from 950,950 to 100,950
+
+2023-07-09 22:28:16 - [MESSAGE][PASSED] - Swiped from 950,950 to 100,950
+
+2023-07-09 22:28:17 - [TEST_STEP][PASSED] - swipe(950, 950, 100, 950): Swiped from 950,950 to 100,950
+
+2023-07-09 22:28:19 - [MESSAGE][PASSED] - Swiped from 950,950 to 100,950
+
+2023-07-09 22:28:19 - [TEST_STEP][PASSED] - swipe(950, 950, 100, 950): Swiped from 950,950 to 100,950
+
+2023-07-09 22:28:21 - [MESSAGE][PASSED] - Swiped from 950,950 to 100,950
+
+2023-07-09 22:28:21 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/android.view.View"), 0): Tapped on element 'Object Repository/android.view.View'
+
+2023-07-09 22:28:21 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-07-09 22:28:23 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/android.view.View'
+
+2023-07-09 22:28:23 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/android.widget.Button - VALIDER"), 0): Tapped on element 'Object Repository/android.widget.Button - VALIDER'
+
+2023-07-09 22:28:23 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-07-09 22:28:25 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/android.widget.Button - VALIDER'
+
+2023-07-09 22:28:25 - [TEST_STEP][PASSED] - tap(findTestObject("Object Repository/android.view.View (1)"), 0): Tapped on element 'Object Repository/android.view.View (1)'
+
+2023-07-09 22:28:25 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+2023-07-09 22:28:27 - [MESSAGE][PASSED] - Tapped on element 'Object Repository/android.view.View (1)'
+
+2023-07-09 22:28:27 - [TEST_STEP][PASSED] - closeApplication(): Close app successfully
+
+2023-07-09 22:28:28 - [MESSAGE][PASSED] - Close app successfully]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-07-09 22:27:45 - [TEST_SUITE][PASSED] - Start App IOS: Test Cases/Start App And navigate to the Home]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
