@@ -1,0 +1,18 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Start App Android Samsung S20,,,,2023-07-10 11:37:46,2023-07-10 11:38:29,"43,094s",PASSED
+,,,,,,,
+Test Cases/Start App And navigate to the Home,,,,2023-07-10 11:37:47,2023-07-10 11:38:29,"42,725s",PASSED
+"browserStackServerURL = ""https://fodndiaye_Cq4dSV:wzG6MDwTZMxzpufsNyS3@hub-cloud.browserstack.com/wd/hub""",,,,2023-07-10 11:37:47,2023-07-10 11:37:47,"0,002s",PASSED
+capabilities = new org.openqa.selenium.remote.DesiredCapabilities(),,,,2023-07-10 11:37:47,2023-07-10 11:37:47,"0,023s",PASSED
+"capabilities.setCapability(""device"", device_name)",,,,2023-07-10 11:37:47,2023-07-10 11:37:47,"0,003s",PASSED
+"capabilities.setCapability(""app"", ""bs://8fac9d3d752abf7cd74d8d118df77fb30c8b0b5c"")",,,,2023-07-10 11:37:47,2023-07-10 11:37:47,"0,001s",PASSED
+"createMobileDriver(ANDROID_DRIVER, capabilities, new java.net.URL(browserStackServerURL))",,,,2023-07-10 11:37:47,2023-07-10 11:38:14,"26,198s",PASSED
+"tap(findTestObject(""Object Repository/android.widget.Button - DMARRER""), 0)",,,,2023-07-10 11:38:14,2023-07-10 11:38:16,"2,541s",PASSED
+"swipe(950, 950, 100, 950)",,,,2023-07-10 11:38:16,2023-07-10 11:38:18,"2,203s",PASSED
+"swipe(950, 950, 100, 950)",,,,2023-07-10 11:38:18,2023-07-10 11:38:20,"2,006s",PASSED
+"swipe(950, 950, 100, 950)",,,,2023-07-10 11:38:20,2023-07-10 11:38:22,"2,026s",PASSED
+"swipe(950, 950, 100, 950)",,,,2023-07-10 11:38:22,2023-07-10 11:38:25,"2,147s",PASSED
+"tap(findTestObject(""Object Repository/android.view.View""), 0)",,,,2023-07-10 11:38:25,2023-07-10 11:38:26,"1,344s",PASSED
+"tap(findTestObject(""Object Repository/android.widget.Button - VALIDER""), 0)",,,,2023-07-10 11:38:26,2023-07-10 11:38:27,"1,324s",PASSED
+"tap(findTestObject(""Object Repository/android.view.View (1)""), 0)",,,,2023-07-10 11:38:27,2023-07-10 11:38:29,"1,565s",PASSED
+closeApplication(),,,,2023-07-10 11:38:29,2023-07-10 11:38:29,"0,617s",PASSED

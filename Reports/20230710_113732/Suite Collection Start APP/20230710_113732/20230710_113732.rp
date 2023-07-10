@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ReportCollectionEntity>
+   <description></description>
+   <name>20230710_113732</name>
+   <tag></tag>
+   <displayName>20230710_113732</displayName>
+   <reportItemDescriptions>
+      <ReportItemDescription>
+         <reportLocation>Reports/20230710_113732/Start App Android Samsung S20/20230710_113733</reportLocation>
+         <runConfigDescription>
+            <groupName>Custom</groupName>
+            <profileName>SamsungS20</profileName>
+            <requireConfigurationData>false</requireConfigurationData>
+            <runConfigurationId>custom_samsung20</runConfigurationId>
+         </runConfigDescription>
+         <testCaseAmount>0</testCaseAmount>
+      </ReportItemDescription>
+      <ReportItemDescription>
+         <reportLocation>Reports/20230710_113732/Start App Android Google Pixel 4/20230710_113735</reportLocation>
+         <runConfigDescription>
+            <groupName>Web Desktop</groupName>
+            <profileName>default</profileName>
+            <requireConfigurationData>false</requireConfigurationData>
+            <runConfigurationId>Remote</runConfigurationId>
+         </runConfigDescription>
+         <testCaseAmount>0</testCaseAmount>
+      </ReportItemDescription>
+   </reportItemDescriptions>
+   <testSuiteCollectionId>Test Suites/Suite Collection Start APP</testSuiteCollectionId>
+</ReportCollectionEntity>

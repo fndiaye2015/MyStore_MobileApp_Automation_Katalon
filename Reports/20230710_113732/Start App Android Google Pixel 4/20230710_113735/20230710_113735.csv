@@ -1,0 +1,18 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Start App Android Google Pixel 4,,,,2023-07-10 11:37:53,2023-07-10 11:38:32,"38,376s",PASSED
+,,,,,,,
+Test Cases/Start App And navigate to the Home,,,,2023-07-10 11:37:53,2023-07-10 11:38:32,"38,026s",PASSED
+"browserStackServerURL = ""https://fodndiaye_Cq4dSV:wzG6MDwTZMxzpufsNyS3@hub-cloud.browserstack.com/wd/hub""",,,,2023-07-10 11:37:54,2023-07-10 11:37:54,"0,002s",PASSED
+capabilities = new org.openqa.selenium.remote.DesiredCapabilities(),,,,2023-07-10 11:37:54,2023-07-10 11:37:54,"0,017s",PASSED
+"capabilities.setCapability(""device"", device_name)",,,,2023-07-10 11:37:54,2023-07-10 11:37:54,"0,002s",PASSED
+"capabilities.setCapability(""app"", ""bs://8fac9d3d752abf7cd74d8d118df77fb30c8b0b5c"")",,,,2023-07-10 11:37:54,2023-07-10 11:37:54,"0,001s",PASSED
+"createMobileDriver(ANDROID_DRIVER, capabilities, new java.net.URL(browserStackServerURL))",,,,2023-07-10 11:37:54,2023-07-10 11:38:16,"21,779s",PASSED
+"tap(findTestObject(""Object Repository/android.widget.Button - DMARRER""), 0)",,,,2023-07-10 11:38:16,2023-07-10 11:38:18,"2,378s",PASSED
+"swipe(950, 950, 100, 950)",,,,2023-07-10 11:38:18,2023-07-10 11:38:20,"2,188s",PASSED
+"swipe(950, 950, 100, 950)",,,,2023-07-10 11:38:20,2023-07-10 11:38:23,"2,072s",PASSED
+"swipe(950, 950, 100, 950)",,,,2023-07-10 11:38:23,2023-07-10 11:38:25,"2,012s",PASSED
+"swipe(950, 950, 100, 950)",,,,2023-07-10 11:38:25,2023-07-10 11:38:27,"1,998s",PASSED
+"tap(findTestObject(""Object Repository/android.view.View""), 0)",,,,2023-07-10 11:38:27,2023-07-10 11:38:28,"1,329s",PASSED
+"tap(findTestObject(""Object Repository/android.widget.Button - VALIDER""), 0)",,,,2023-07-10 11:38:28,2023-07-10 11:38:29,"1,516s",PASSED
+"tap(findTestObject(""Object Repository/android.view.View (1)""), 0)",,,,2023-07-10 11:38:29,2023-07-10 11:38:31,"1,449s",PASSED
+closeApplication(),,,,2023-07-10 11:38:31,2023-07-10 11:38:32,"0,673s",PASSED

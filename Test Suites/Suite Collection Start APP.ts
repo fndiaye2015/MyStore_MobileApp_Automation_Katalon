@@ -15,7 +15,7 @@
             <runConfigurationId>custom_samsung20</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/Start App IOS</testSuiteEntity>
+         <testSuiteEntity>Test Suites/Start App Android Samsung S20</testSuiteEntity>
       </TestSuiteRunConfiguration>
       <TestSuiteRunConfiguration>
          <configuration>
@@ -25,7 +25,7 @@
             <runConfigurationId>Remote</runConfigurationId>
          </configuration>
          <runEnabled>true</runEnabled>
-         <testSuiteEntity>Test Suites/Start App Android</testSuiteEntity>
+         <testSuiteEntity>Test Suites/Start App Android Google Pixel 4</testSuiteEntity>
       </TestSuiteRunConfiguration>
    </testSuiteRunConfigurations>
 </TestSuiteCollectionEntity>

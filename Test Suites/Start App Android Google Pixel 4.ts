@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Start App IOS</name>
+   <name>Start App Android Google Pixel 4</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,9 +10,9 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>c0ab90d4-7a12-4b82-9288-dcc784cd840a</testSuiteGuid>
+   <testSuiteGuid>e3860eb2-8489-41bc-9ce8-59590c5ca432</testSuiteGuid>
    <testCaseLink>
-      <guid>622f600d-9bd6-41ea-bffe-f22f1cfc2e19</guid>
+      <guid>6d72b567-e0e3-44ef-83b5-80aa1ac04b5c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Start App And navigate to the Home</testCaseId>
